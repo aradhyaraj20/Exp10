@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Exp10</string>
+    <string name="contacts_title">Contacts Directory &amp; Sharing</string>
+    <string name="add_contact_title">Add New Contact</string>
+    <string name="enter_name_hint">Enter contact name&#8230;</string>
+    <string name="enter_phone_hint">Enter phone number&#8230;</string>
+    <string name="save_contact">Save Contact</string>
+    <string name="fetch_contacts">Refresh Contacts</string>
+    <string name="search_contacts_hint">Search contacts by name or number&#8230;</string>
+    <string name="tap_to_share_instruction">Tap a contact to view full details and share</string>
+    <string name="permission_denied">Contacts permission was denied.</string>
+    <string name="write_permission_denied">Permission to write contacts was denied.</string>
+    <string name="no_contacts_found">No contacts found.</string>
+    <string name="sample_contacts_loaded">No device contacts found. Loaded sample contacts for testing.</string>
+    <string name="contact_saved_success">Contact saved successfully to ContentProvider!</string>
+    <string name="please_enter_details">Please enter both name and phone number.</string>
+    <string name="share_contact_title">Share</string>
+    <string name="call_contact">Call</string>
+    <string name="close_dialog">Close</string>
+    <string name="details_dialog_title">Contact Details</string>
+    <string name="contact_source_label">Source: Contacts ContentProvider (ContactsContract)</string>
+</resources>
